@@ -7,6 +7,12 @@
 
 &nbsp;
 
+#### install
+
+```
+npm i travis.yml
+```
+
 #### usage
 
 ```
