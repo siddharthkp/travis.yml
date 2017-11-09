@@ -1,0 +1,21 @@
+{
+  "name": "travis.yml",
+  "version": "1.0.0",
+  "description": "Quickly create a .travis.yml for node projects",
+  "main": "index.js",
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddharthkp/travis.yml.git"
+  },
+  "keywords": [],
+  "author": "siddharthkp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siddharthkp/travis.yml/issues"
+  },
+  "homepage": "https://github.com/siddharthkp/travis.yml#readme",
+  "dependencies": {
+    "prettycli": "1.4.3"
+  }
+}
