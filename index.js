@@ -6,7 +6,7 @@ const { info } = require('prettycli')
 const content = `
 language: node_js
 node_js:
-  - "8"
+  - "10"
 cache:
   directories:
     - node_modules
