@@ -20,7 +20,7 @@ this creates a `.travis.yml` in your working directory
 ```
 language: node_js
 node_js:
-  - "8"
+  - "10"
 cache:
   directories:
     - node_modules
